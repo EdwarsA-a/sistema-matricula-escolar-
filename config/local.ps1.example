@@ -1,0 +1,4 @@
+$env:DB_URL = 'jdbc:mysql://localhost:3306/matricula_escolar?serverTimezone=America/Lima&useSSL=false&allowPublicKeyRetrieval=true'
+$env:DB_USER = 'matricula_app'
+$env:DB_PASSWORD = 'osmaralejo04'
+$env:WILDFLY_HOME = 'C:\herramientas\wildfly-39.0.1.Final'
